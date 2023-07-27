@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "64c29091c6311e39aed138bf"
+  },
+  "name": "perro",
+  "genero": "masculino",
+  "race": "pispull"
+}]
